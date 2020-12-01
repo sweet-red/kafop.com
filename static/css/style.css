@@ -255,7 +255,12 @@ textarea {
 /*内容区域*/
 
 /*-----------------------------简洁版样式定义- 开始---------------------------------------------------*/
-
+.jj-center {
+    width: 100%;
+    float: center;
+    margin-bottom: 30px;
+    padding-right: 16px;
+}
 .jj-list {
     width: 33.33%;
     float: left;
